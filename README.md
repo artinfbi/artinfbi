@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artin</h1>
 <h3 align="center">Cyber security / python developer</h3>
-<img source="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"></img>
+<img align="center" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"></img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/4r71nfb1#9008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4r71nfb1#9008" height="30" width="40" /></a>
